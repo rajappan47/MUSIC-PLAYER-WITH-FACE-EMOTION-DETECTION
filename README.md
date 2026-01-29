@@ -1,4 +1,5 @@
 The objective of the proposed project is to develop a facial expression recognition system integrated with a music recommendation system, aimed at enhancing human-computer interaction and emotional response in computing environments.
+#
 Implement facial expression detection using the HAAR CASCADES set of rules and the Support Vector Machine (SVM) set of rules. 
 The system will be trained to automatically recognize various facial expressions, including happiness, sadness, anger, surprise, disgust, and fear.
 Utilize a K-Nearest Neighbor (KNN) technique to generate a playlist of songs suited for the user's current emotional state based on the detected facial expression.
